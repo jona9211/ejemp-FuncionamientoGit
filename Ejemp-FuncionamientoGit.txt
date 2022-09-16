@@ -1,1 +1,4 @@
 Ejemplo funcionamiento git
+
+hola mundo como esta 
+buen dia 
